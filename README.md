@@ -1,5 +1,5 @@
 
-# Drone Vision Collective
+# Drone Task
 
 A comprehensive drone management and monitoring application built with React, TypeScript, and Shadcn UI.
 
